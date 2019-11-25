@@ -23,3 +23,6 @@
 7) Make sure you put the repo on _SSH_. (If is isn't on SSH, you will have to input your account info *every single time* you want to make changes.)
 8) Scroll down to the *2nd* block of text.
 9) Click on the clipboard icon or highlight the text and copy it.
+10) Go _back_ to your IDE.
+11) _Paste_ the code into the terminal.
+12) Press _Enter_ and you're done!
