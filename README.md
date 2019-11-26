@@ -1,7 +1,7 @@
 # To Make A New Repository
 ## Adding Files into the Directory
-1) cd (*Change Directories*) into your home directory with _cd ~_
-2) cd into github-learning/ with _cd github-learning/_ (If you *DO NOT* have the directory github-learning, please do _mkdir github-learning_ *FIRST* before anything else.)
+1) cd (*Change Directories*) into your home directory with **cd ~**
+2) cd into github-learning/ with _cd github-learning/_ (If you **DO NOT** have the directory github-learning, please do _mkdir github-learning_ *FIRST* before anything else.)
 3) Make a new directory called repotest. To do so you need the command _mkdir repotest_.
 4) Use _touch README.md_ to make a new md file (A new text file.)
 5) Use the command _c9 README.md_ to open the file.
@@ -21,7 +21,7 @@
 5) Name the repository *EXACTLY* how the directory is. (If you directory is repotest, name the repository repotest)
 6) Click on the green button or press _Enter_.
 7) Make sure you put the repo on _SSH_. (If is isn't on SSH, you will have to input your account info *every single time* you want to make changes.)
-8) Scroll down to the *2nd* block of text.
+8) Scroll down to the **2nd** block of text.
 9) Click on the clipboard icon or highlight the text and copy it.
 10) Go _back_ to your IDE.
 11) _Paste_ the code into the terminal.
