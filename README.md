@@ -1,4 +1,4 @@
-# To Make A New Repository
+# _To Make A New Repository_
 ## Adding Files into the Directory
 1) cd (*Change Directories*) into your home directory with **cd ~**
 2) cd into github-learning/ with _cd github-learning/_ (If you **DO NOT** have the directory github-learning, please do _mkdir github-learning_ *FIRST* before anything else.)
@@ -17,10 +17,10 @@
 1) Go to [www.github.com](www.github.com) (You can click on the link!)
 2) Sign into GitHub.
 3) In the top right corner *click* on the plus sign (+).
-4) In the dropdown tab, click on *New Repository* to add a new repository.
-5) Name the repository *EXACTLY* how the directory is. (If you directory is repotest, name the repository repotest)
+4) In the dropdown tab, click on **New Repository** to add a new repository.
+5) Name the repository **EXACTLY** how the directory is. (If you directory is repotest, name the repository repotest)
 6) Click on the green button or press _Enter_.
-7) Make sure you put the repo on _SSH_. (If is isn't on SSH, you will have to input your account info *every single time* you want to make changes.)
+7) Make sure you put the repo on _SSH_. (If is **isn't** on SSH, you will have to input your account info *every single time* you want to make changes.)
 8) Scroll down to the **2nd** block of text.
 9) Click on the clipboard icon or highlight the text and copy it.
 10) Go _back_ to your IDE.
